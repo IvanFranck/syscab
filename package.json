@@ -1,0 +1,28 @@
+{
+  "name": "syscab",
+  "version": "1.0.0",
+  "description": "\"saas pour la gestion des activités des usiers au cameroun\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "nzima ivan",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.3.4",
+    "autoprefixer": "^10.3.7",
+    "gray-matter": "^4.0.3",
+    "path": "^0.12.7",
+    "postcss": "^8.3.9",
+    "sass": "^1.42.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
